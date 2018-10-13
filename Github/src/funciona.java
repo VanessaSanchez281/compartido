@@ -13,7 +13,8 @@ public class funciona {
     public static void main(String[] args) {
         String Hola;
         int a;
-        System.out.println("Hola, JESSICA");
+        System.out.println("Hola, Jessica");
         System.out.println("Hola, Giova");
+        System.out.println("Hola, Vane");
     }
 }
